@@ -108,5 +108,3 @@ Thanks to Telegram for making bot development easy and fun.
 4. Add any acknowledgments or credit where it's due (e.g., libraries, tools, or collaborators).
 
 ---
-
-This should give your **AI Samadhi** repository a clean and organized look, making it easy for others (and your future self!) to understand and contribute to the project. Let me know if you want to add anything else, buddy! 😎
